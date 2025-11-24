@@ -66,6 +66,7 @@ class Node {
 ```
 
 ## Output:
+<img width="1265" height="357" alt="image" src="https://github.com/user-attachments/assets/5b1e0d29-22bc-47ed-b91c-bb9831419015" />
 
 
 
