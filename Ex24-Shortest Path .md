@@ -103,6 +103,7 @@ public class TouristNavigation {
 ```
 
 ## Output:
+<img width="1265" height="404" alt="image" src="https://github.com/user-attachments/assets/5092563e-d395-40af-8729-a7d7e1ca3cf0" />
 
 
 
