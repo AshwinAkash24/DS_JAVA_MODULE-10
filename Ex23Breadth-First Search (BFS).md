@@ -56,6 +56,7 @@ public class EmergencyRouteBFS {
 ```
 
 ## Output:
+<img width="1266" height="395" alt="image" src="https://github.com/user-attachments/assets/734251c8-9d92-4fe6-9233-345c71628542" />
 
 
 
